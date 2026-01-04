@@ -1,3 +1,2 @@
-const unusedVar = 'test';
-console.log("Hello world");
-let x = 5
+console.log('Hello world');
+let x = 5;
